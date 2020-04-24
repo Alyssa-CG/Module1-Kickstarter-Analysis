@@ -12,8 +12,10 @@ From first glace, it is evident that theater was the most common type of Kicksta
 
 ![Parent and Subcategory Outcomes](https://github.com/Alyssa-CG/Module1-Kickstarter-project/blob/master/Subcategory%20Outcomes-%20plays.png)
 
-This alone does not give enough information on what contributes to the success of Kickstarter plays, so month of launch for the Kickstarter campaigns.
+This alone does not give enough information, so month of launch and goal and pledge amounts were evaluated for the Kickstarter campaigns.
 
 ![Outcome Based on Month Launched](https://github.com/Alyssa-CG/Module1-Kickstarter-project/blob/master/Outcomes%20Based%20on%20Month%20Launched.png)
 
-After evaluating the data, I would recommend that if a play is selected for a Kickstarter campaign it be launched in May, which appears to be correlated with the highest successes. Other factors must be considered when planning the kickstarter campaign however, such as the state of the economy (recession or even pandemic versus boom), how the campaign will be promoted (sponsors, spokespersons etc) and where the initial resources (money, manpower) will come from.
+![Goal and Pledged Quartiles for Great Britain](https://github.com/Alyssa-CG/Module1-Kickstarter-project/blob/master/Goal%20and%20Pledge%20Quartiles%20for%20Great%20Britain%20Kickstarter%20Musicals.png)
+
+After evaluating the data, I would recommend that if a play is selected for a Kickstarter campaign it be launched in May, which appears to be correlated with the highest successes. Target goal amount should also be both worthwhile and realistic, so it may be worth considering what past values were successful in different regions. Other factors must be considered when planning the kickstarter campaign however, such as the state of the economy (recession or even pandemic versus boom), how the campaign will be promoted (sponsors, spokespersons etc) and where the initial resources (money, manpower) will come from.
